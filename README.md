@@ -1,4 +1,4 @@
-# Aktobe Parcel Tool
+# Kadastr Parcel Tool
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
 ![DXF](https://img.shields.io/badge/DXF-R12%20LINE-brightgreen)
