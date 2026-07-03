@@ -1,0 +1,40 @@
+{
+  "district": {
+    "id": 46,
+    "regionCode": "02",
+    "code": "040",
+    "rn_code": "77191",
+    "kato": "156020100",
+    "type": "г.",
+    "type_kz": "қ.",
+    "nameRu": "Хромтау (02-040)",
+    "nameKz": "Хромтау (02-040)",
+    "nameEn": "Хромтау (02-040)",
+    "srs": 32640,
+    "ate_code": "77191"
+  },
+  "srs": "EPSG:32640",
+  "bbox": [
+    597062.568,
+    5562370.775,
+    609378.278,
+    5580174.891
+  ],
+  "matched": 9592,
+  "requested": 9592,
+  "fields": [
+    "geom",
+    "gid",
+    "district_id",
+    "kad_nomer",
+    "address_ru",
+    "shape_area",
+    "squ",
+    "land_id",
+    "rka"
+  ],
+  "dry_run": false,
+  "written": 9592,
+  "geojson": "C:\\Users\\corallune\\Documents\\Codex\\2026-07-03\\vyt\\outputs\\AktobeParcels\\data\\parcels_02040.geojson",
+  "csv": "C:\\Users\\corallune\\Documents\\Codex\\2026-07-03\\vyt\\outputs\\AktobeParcels\\data\\parcels_02040.csv"
+}

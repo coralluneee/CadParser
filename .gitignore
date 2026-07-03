@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.pyo
+
+.venv/
+venv/
+env/
+
+exports/*
+!exports/.gitkeep
+
+*.log
+*.tmp
+Thumbs.db
+desktop.ini
