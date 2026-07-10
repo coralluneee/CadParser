@@ -1,0 +1,40 @@
+{
+  "district": {
+    "id": 32,
+    "regionCode": "02",
+    "code": "024",
+    "rn_code": "0206",
+    "kato": "153400000",
+    "type": "р-н.",
+    "type_kz": "қ.",
+    "nameRu": "Айтекебийский (02-024)",
+    "nameKz": "Әйтеке Би (02-024)",
+    "nameEn": "Айтекебийский (02-024)",
+    "srs": 32641,
+    "ate_code": "70995"
+  },
+  "srs": "EPSG:32641",
+  "bbox": [
+    229968.478,
+    5401694.139,
+    497242.952,
+    5686204.067
+  ],
+  "matched": 10672,
+  "requested": 10672,
+  "fields": [
+    "geom",
+    "gid",
+    "district_id",
+    "kad_nomer",
+    "address_ru",
+    "shape_area",
+    "squ",
+    "land_id",
+    "rka"
+  ],
+  "dry_run": false,
+  "written": 10672,
+  "geojson": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02024.geojson",
+  "csv": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02024.csv"
+}

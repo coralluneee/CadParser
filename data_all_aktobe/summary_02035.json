@@ -1,0 +1,40 @@
+{
+  "district": {
+    "id": 41,
+    "regionCode": "02",
+    "code": "035",
+    "rn_code": "0217",
+    "kato": "156400000",
+    "type": "р-н.",
+    "type_kz": "қ.",
+    "nameRu": "Шалкарский (02-035)",
+    "nameKz": "Шалқар (02-035)",
+    "nameEn": "Шалкарский (02-035)",
+    "srs": 32640,
+    "ate_code": "77882"
+  },
+  "srs": "EPSG:32640",
+  "bbox": [
+    545210.95,
+    5024693.277,
+    881932.696,
+    5437219.08
+  ],
+  "matched": 6826,
+  "requested": 6826,
+  "fields": [
+    "geom",
+    "gid",
+    "district_id",
+    "kad_nomer",
+    "address_ru",
+    "shape_area",
+    "squ",
+    "land_id",
+    "rka"
+  ],
+  "dry_run": false,
+  "written": 6826,
+  "geojson": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02035.geojson",
+  "csv": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02035.csv"
+}

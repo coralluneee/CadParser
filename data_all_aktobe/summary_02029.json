@@ -1,0 +1,40 @@
+{
+  "district": {
+    "id": 36,
+    "regionCode": "02",
+    "code": "029",
+    "rn_code": "0210",
+    "kato": "154600000",
+    "type": "р-н.",
+    "type_kz": "қ.",
+    "nameRu": "Мартукский (02-029)",
+    "nameKz": "Мартук (02-029)",
+    "nameEn": "Мартукский (02-029)",
+    "srs": 32640,
+    "ate_code": "74033"
+  },
+  "srs": "EPSG:32640",
+  "bbox": [
+    420371.459,
+    5561921.115,
+    549037.972,
+    5663129.217
+  ],
+  "matched": 17165,
+  "requested": 17165,
+  "fields": [
+    "geom",
+    "gid",
+    "district_id",
+    "kad_nomer",
+    "address_ru",
+    "shape_area",
+    "squ",
+    "land_id",
+    "rka"
+  ],
+  "dry_run": false,
+  "written": 17165,
+  "geojson": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02029.geojson",
+  "csv": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02029.csv"
+}

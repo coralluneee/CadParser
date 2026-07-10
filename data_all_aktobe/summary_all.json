@@ -1,0 +1,762 @@
+[
+  {
+    "district": {
+      "id": 30,
+      "regionCode": "02",
+      "code": "022",
+      "rn_code": "0204",
+      "kato": "153200000",
+      "type": "р-н.",
+      "type_kz": "қ.",
+      "nameRu": "Алгинский (02-022)",
+      "nameKz": "Алға (02-022)",
+      "nameEn": "Алгинский (02-022)",
+      "srs": 32640,
+      "ate_code": "70251"
+    },
+    "srs": "EPSG:32640",
+    "bbox": [
+      440875.724,
+      5488157.042,
+      601297.918,
+      5590469.856
+    ],
+    "matched": 10981,
+    "requested": 10981,
+    "fields": [
+      "geom",
+      "gid",
+      "district_id",
+      "kad_nomer",
+      "address_ru",
+      "shape_area",
+      "squ",
+      "land_id",
+      "rka"
+    ],
+    "dry_run": false,
+    "written": 10981,
+    "geojson": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02022.geojson",
+    "csv": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02022.csv"
+  },
+  {
+    "district": {
+      "id": 31,
+      "regionCode": "02",
+      "code": "023",
+      "rn_code": "0205",
+      "kato": "153600000",
+      "type": "р-н.",
+      "type_kz": "қ.",
+      "nameRu": "Байганинский (02-023)",
+      "nameKz": "Байғанин (02-023)",
+      "nameEn": "Байганинский (02-023)",
+      "srs": 32640,
+      "ate_code": "71730"
+    },
+    "srs": "EPSG:32640",
+    "bbox": [
+      342505.183,
+      5002149.098,
+      590587.398,
+      5429952.193
+    ],
+    "matched": 7603,
+    "requested": 7603,
+    "fields": [
+      "geom",
+      "gid",
+      "district_id",
+      "kad_nomer",
+      "address_ru",
+      "shape_area",
+      "squ",
+      "land_id",
+      "rka"
+    ],
+    "dry_run": false,
+    "written": 7603,
+    "geojson": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02023.geojson",
+    "csv": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02023.csv"
+  },
+  {
+    "district": {
+      "id": 32,
+      "regionCode": "02",
+      "code": "024",
+      "rn_code": "0206",
+      "kato": "153400000",
+      "type": "р-н.",
+      "type_kz": "қ.",
+      "nameRu": "Айтекебийский (02-024)",
+      "nameKz": "Әйтеке Би (02-024)",
+      "nameEn": "Айтекебийский (02-024)",
+      "srs": 32641,
+      "ate_code": "70995"
+    },
+    "srs": "EPSG:32641",
+    "bbox": [
+      229968.478,
+      5401694.139,
+      497242.952,
+      5686204.067
+    ],
+    "matched": 10672,
+    "requested": 10672,
+    "fields": [
+      "geom",
+      "gid",
+      "district_id",
+      "kad_nomer",
+      "address_ru",
+      "shape_area",
+      "squ",
+      "land_id",
+      "rka"
+    ],
+    "dry_run": false,
+    "written": 10672,
+    "geojson": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02024.geojson",
+    "csv": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02024.csv"
+  },
+  {
+    "district": {
+      "id": 33,
+      "regionCode": "02",
+      "code": "025",
+      "rn_code": "0207",
+      "kato": "156800000",
+      "type": "р-н.",
+      "type_kz": "қ.",
+      "nameRu": "Иргизский (02-025)",
+      "nameKz": "Ырғыз (02-025)",
+      "nameEn": "Иргизский (02-025)",
+      "srs": 32641,
+      "ate_code": "78988"
+    },
+    "srs": "EPSG:32641",
+    "bbox": [
+      283647.573,
+      5224477.127,
+      596020.114,
+      5505025.277
+    ],
+    "matched": 4617,
+    "requested": 4617,
+    "fields": [
+      "geom",
+      "gid",
+      "district_id",
+      "kad_nomer",
+      "address_ru",
+      "shape_area",
+      "squ",
+      "land_id",
+      "rka"
+    ],
+    "dry_run": false,
+    "written": 4617,
+    "geojson": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02025.geojson",
+    "csv": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02025.csv"
+  },
+  {
+    "district": {
+      "id": 34,
+      "regionCode": "02",
+      "code": "027",
+      "rn_code": "0212",
+      "kato": "154800000",
+      "type": "р-н.",
+      "type_kz": "қ.",
+      "nameRu": "Мугалжарский (02-027)",
+      "nameKz": "Мұғалжар (02-027)",
+      "nameEn": "Мугалжарский (02-027)",
+      "srs": 32640,
+      "ate_code": "74573"
+    },
+    "srs": "EPSG:32640",
+    "bbox": [
+      466239.304,
+      5295227.537,
+      681742.687,
+      5523725.935
+    ],
+    "matched": 9126,
+    "requested": 9126,
+    "fields": [
+      "geom",
+      "gid",
+      "district_id",
+      "kad_nomer",
+      "address_ru",
+      "shape_area",
+      "squ",
+      "land_id",
+      "rka"
+    ],
+    "dry_run": false,
+    "written": 9126,
+    "geojson": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02027.geojson",
+    "csv": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02027.csv"
+  },
+  {
+    "district": {
+      "id": 35,
+      "regionCode": "02",
+      "code": "028",
+      "rn_code": "0209",
+      "kato": "154000000",
+      "type": "р-н.",
+      "type_kz": "қ.",
+      "nameRu": "Каргалинский (02-028)",
+      "nameKz": "Қарғалы (02-028)",
+      "nameEn": "Каргалинский (02-028)",
+      "srs": 32640,
+      "ate_code": "72930"
+    },
+    "srs": "EPSG:32640",
+    "bbox": [
+      520222.804,
+      5591272.8,
+      639535.583,
+      5669289.073
+    ],
+    "matched": 8336,
+    "requested": 8336,
+    "fields": [
+      "geom",
+      "gid",
+      "district_id",
+      "kad_nomer",
+      "address_ru",
+      "shape_area",
+      "squ",
+      "land_id",
+      "rka"
+    ],
+    "dry_run": false,
+    "written": 8336,
+    "geojson": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02028.geojson",
+    "csv": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02028.csv"
+  },
+  {
+    "district": {
+      "id": 36,
+      "regionCode": "02",
+      "code": "029",
+      "rn_code": "0210",
+      "kato": "154600000",
+      "type": "р-н.",
+      "type_kz": "қ.",
+      "nameRu": "Мартукский (02-029)",
+      "nameKz": "Мартук (02-029)",
+      "nameEn": "Мартукский (02-029)",
+      "srs": 32640,
+      "ate_code": "74033"
+    },
+    "srs": "EPSG:32640",
+    "bbox": [
+      420371.459,
+      5561921.115,
+      549037.972,
+      5663129.217
+    ],
+    "matched": 17165,
+    "requested": 17165,
+    "fields": [
+      "geom",
+      "gid",
+      "district_id",
+      "kad_nomer",
+      "address_ru",
+      "shape_area",
+      "squ",
+      "land_id",
+      "rka"
+    ],
+    "dry_run": false,
+    "written": 17165,
+    "geojson": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02029.geojson",
+    "csv": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02029.csv"
+  },
+  {
+    "district": {
+      "id": 37,
+      "regionCode": "02",
+      "code": "031",
+      "rn_code": "0213",
+      "kato": "155600000",
+      "type": "р-н.",
+      "type_kz": "қ.",
+      "nameRu": "Темирский (02-031)",
+      "nameKz": "Темір (02-031)",
+      "nameEn": "Темирский (02-031)",
+      "srs": 32640,
+      "ate_code": "76086"
+    },
+    "srs": "EPSG:32640",
+    "bbox": [
+      364702.749,
+      5359840.777,
+      537653.451,
+      5516283.702
+    ],
+    "matched": 9954,
+    "requested": 9954,
+    "fields": [
+      "geom",
+      "gid",
+      "district_id",
+      "kad_nomer",
+      "address_ru",
+      "shape_area",
+      "squ",
+      "land_id",
+      "rka"
+    ],
+    "dry_run": false,
+    "written": 9954,
+    "geojson": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02031.geojson",
+    "csv": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02031.csv"
+  },
+  {
+    "district": {
+      "id": 38,
+      "regionCode": "02",
+      "code": "032",
+      "rn_code": "0214",
+      "kato": "155200000",
+      "type": "р-н.",
+      "type_kz": "қ.",
+      "nameRu": "Уилский (02-032)",
+      "nameKz": "Ойыл (02-032)",
+      "nameEn": "Уилский (02-032)",
+      "srs": 32640,
+      "ate_code": "75597"
+    },
+    "srs": "EPSG:32640",
+    "bbox": [
+      253654.533,
+      5389742.486,
+      391748.454,
+      5519611.315
+    ],
+    "matched": 6682,
+    "requested": 6682,
+    "fields": [
+      "geom",
+      "gid",
+      "district_id",
+      "kad_nomer",
+      "address_ru",
+      "shape_area",
+      "squ",
+      "land_id",
+      "rka"
+    ],
+    "dry_run": false,
+    "written": 6682,
+    "geojson": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02032.geojson",
+    "csv": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02032.csv"
+  },
+  {
+    "district": {
+      "id": 39,
+      "regionCode": "02",
+      "code": "033",
+      "rn_code": "0215",
+      "kato": "154200000",
+      "type": "р-н.",
+      "type_kz": "қ.",
+      "nameRu": "Хобдинский (02-033)",
+      "nameKz": "Қобда (02-033)",
+      "nameEn": "Хобдинский (02-033)",
+      "srs": 32640,
+      "ate_code": "73380"
+    },
+    "srs": "EPSG:32640",
+    "bbox": [
+      311876.452,
+      5477973.312,
+      456020.424,
+      5657271.301
+    ],
+    "matched": 7821,
+    "requested": 7821,
+    "fields": [
+      "geom",
+      "gid",
+      "district_id",
+      "kad_nomer",
+      "address_ru",
+      "shape_area",
+      "squ",
+      "land_id",
+      "rka"
+    ],
+    "dry_run": false,
+    "written": 7821,
+    "geojson": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02033.geojson",
+    "csv": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02033.csv"
+  },
+  {
+    "district": {
+      "id": 40,
+      "regionCode": "02",
+      "code": "034",
+      "rn_code": "0216",
+      "kato": "156000000",
+      "type": "р-н.",
+      "type_kz": "қ.",
+      "nameRu": "Хромтауский (02-034)",
+      "nameKz": "Хромтау (02-034)",
+      "nameEn": "Хромтауский (02-034)",
+      "srs": 32640,
+      "ate_code": "77174"
+    },
+    "srs": "EPSG:32640",
+    "bbox": [
+      539314.311,
+      5493614.867,
+      718277.685,
+      5618015.029
+    ],
+    "matched": 9475,
+    "requested": 9475,
+    "fields": [
+      "geom",
+      "gid",
+      "district_id",
+      "kad_nomer",
+      "address_ru",
+      "shape_area",
+      "squ",
+      "land_id",
+      "rka"
+    ],
+    "dry_run": false,
+    "written": 9475,
+    "geojson": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02034.geojson",
+    "csv": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02034.csv"
+  },
+  {
+    "district": {
+      "id": 41,
+      "regionCode": "02",
+      "code": "035",
+      "rn_code": "0217",
+      "kato": "156400000",
+      "type": "р-н.",
+      "type_kz": "қ.",
+      "nameRu": "Шалкарский (02-035)",
+      "nameKz": "Шалқар (02-035)",
+      "nameEn": "Шалкарский (02-035)",
+      "srs": 32640,
+      "ate_code": "77882"
+    },
+    "srs": "EPSG:32640",
+    "bbox": [
+      545210.95,
+      5024693.277,
+      881932.696,
+      5437219.08
+    ],
+    "matched": 6826,
+    "requested": 6826,
+    "fields": [
+      "geom",
+      "gid",
+      "district_id",
+      "kad_nomer",
+      "address_ru",
+      "shape_area",
+      "squ",
+      "land_id",
+      "rka"
+    ],
+    "dry_run": false,
+    "written": 6826,
+    "geojson": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02035.geojson",
+    "csv": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02035.csv"
+  },
+  {
+    "district": {
+      "id": 42,
+      "regionCode": "02",
+      "code": "036",
+      "rn_code": "0201",
+      "kato": "151010000",
+      "type": "г.",
+      "type_kz": "қ.",
+      "nameRu": "Актобе (02-036)",
+      "nameKz": "Ақтөбе (02-036)",
+      "nameEn": "Актобе (02-036)",
+      "srs": 32640,
+      "ate_code": "68402"
+    },
+    "srs": "EPSG:32640",
+    "bbox": [
+      489487.749,
+      5551638.935,
+      555606.861,
+      5604112.351
+    ],
+    "matched": 117134,
+    "requested": 117134,
+    "fields": [
+      "geom",
+      "gid",
+      "district_id",
+      "kad_nomer",
+      "address_ru",
+      "shape_area",
+      "squ",
+      "land_id",
+      "rka"
+    ],
+    "dry_run": false,
+    "written": 117134,
+    "geojson": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02036.geojson",
+    "csv": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02036.csv"
+  },
+  {
+    "district": {
+      "id": 43,
+      "regionCode": "02",
+      "code": "037",
+      "rn_code": "70265",
+      "kato": "153220100",
+      "type": "г.",
+      "type_kz": "қ.",
+      "nameRu": "Алга (02-037)",
+      "nameKz": "Алға (02-037)",
+      "nameEn": "Алга (02-037)",
+      "srs": 32640,
+      "ate_code": "70265"
+    },
+    "srs": "EPSG:32640",
+    "bbox": [
+      516699.244,
+      5521266.929,
+      529709.088,
+      5535313.331
+    ],
+    "matched": 5747,
+    "requested": 5747,
+    "fields": [
+      "geom",
+      "gid",
+      "district_id",
+      "kad_nomer",
+      "address_ru",
+      "shape_area",
+      "squ",
+      "land_id",
+      "rka"
+    ],
+    "dry_run": false,
+    "written": 5747,
+    "geojson": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02037.geojson",
+    "csv": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02037.csv"
+  },
+  {
+    "district": {
+      "id": 44,
+      "regionCode": "02",
+      "code": "038",
+      "rn_code": "74586",
+      "kato": "154820100",
+      "type": "г.",
+      "type_kz": "қ.",
+      "nameRu": "Кандыагаш (02-038)",
+      "nameKz": "Қандыағаш (02-038)",
+      "nameEn": "Кандыагаш (02-038)",
+      "srs": 32640,
+      "ate_code": "74586"
+    },
+    "srs": "EPSG:32640",
+    "bbox": [
+      520066.191,
+      5469769.132,
+      535613.752,
+      5489672.923
+    ],
+    "matched": 6508,
+    "requested": 6508,
+    "fields": [
+      "geom",
+      "gid",
+      "district_id",
+      "kad_nomer",
+      "address_ru",
+      "shape_area",
+      "squ",
+      "land_id",
+      "rka"
+    ],
+    "dry_run": false,
+    "written": 6508,
+    "geojson": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02038.geojson",
+    "csv": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02038.csv"
+  },
+  {
+    "district": {
+      "id": 45,
+      "regionCode": "02",
+      "code": "039",
+      "rn_code": "76975",
+      "kato": "155621100",
+      "type": "г.",
+      "type_kz": "қ.",
+      "nameRu": "Темир (02-039)",
+      "nameKz": "Темір (02-039)",
+      "nameEn": "Темир (02-039)",
+      "srs": 32640,
+      "ate_code": "76975"
+    },
+    "srs": "EPSG:32640",
+    "bbox": [
+      500433.012,
+      5425729.515,
+      517803.495,
+      5450887.181
+    ],
+    "matched": 1423,
+    "requested": 1423,
+    "fields": [
+      "geom",
+      "gid",
+      "district_id",
+      "kad_nomer",
+      "address_ru",
+      "shape_area",
+      "squ",
+      "land_id",
+      "rka"
+    ],
+    "dry_run": false,
+    "written": 1423,
+    "geojson": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02039.geojson",
+    "csv": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02039.csv"
+  },
+  {
+    "district": {
+      "id": 46,
+      "regionCode": "02",
+      "code": "040",
+      "rn_code": "77191",
+      "kato": "156020100",
+      "type": "г.",
+      "type_kz": "қ.",
+      "nameRu": "Хромтау (02-040)",
+      "nameKz": "Хромтау (02-040)",
+      "nameEn": "Хромтау (02-040)",
+      "srs": 32640,
+      "ate_code": "77191"
+    },
+    "srs": "EPSG:32640",
+    "bbox": [
+      597062.568,
+      5562370.775,
+      609378.278,
+      5580174.891
+    ],
+    "matched": 9591,
+    "requested": 9591,
+    "fields": [
+      "geom",
+      "gid",
+      "district_id",
+      "kad_nomer",
+      "address_ru",
+      "shape_area",
+      "squ",
+      "land_id",
+      "rka"
+    ],
+    "dry_run": false,
+    "written": 9591,
+    "geojson": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02040.geojson",
+    "csv": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02040.csv"
+  },
+  {
+    "district": {
+      "id": 47,
+      "regionCode": "02",
+      "code": "041",
+      "rn_code": "78668",
+      "kato": "156420100",
+      "type": "г.",
+      "type_kz": "қ.",
+      "nameRu": "Шалкар (02-041)",
+      "nameKz": "Шалқар (02-041)",
+      "nameEn": "Шалкар (02-041)",
+      "srs": 32640,
+      "ate_code": "78668"
+    },
+    "srs": "EPSG:32640",
+    "bbox": [
+      667568.583,
+      5285072.917,
+      713208.899,
+      5340907.263
+    ],
+    "matched": 7096,
+    "requested": 7096,
+    "fields": [
+      "geom",
+      "gid",
+      "district_id",
+      "kad_nomer",
+      "address_ru",
+      "shape_area",
+      "squ",
+      "land_id",
+      "rka"
+    ],
+    "dry_run": false,
+    "written": 7096,
+    "geojson": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02041.geojson",
+    "csv": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02041.csv"
+  },
+  {
+    "district": {
+      "id": 48,
+      "regionCode": "02",
+      "code": "042",
+      "rn_code": "74677",
+      "kato": "154823100",
+      "type": "г.",
+      "type_kz": "қ.",
+      "nameRu": "Эмба (02-042)",
+      "nameKz": "Ембі (02-042)",
+      "nameEn": "Эмба (02-042)",
+      "srs": 32640,
+      "ate_code": "74677"
+    },
+    "srs": "EPSG:32640",
+    "bbox": [
+      568995.148,
+      5387024.277,
+      600356.591,
+      5423145.684
+    ],
+    "matched": 3124,
+    "requested": 3124,
+    "fields": [
+      "geom",
+      "gid",
+      "district_id",
+      "kad_nomer",
+      "address_ru",
+      "shape_area",
+      "squ",
+      "land_id",
+      "rka"
+    ],
+    "dry_run": false,
+    "written": 3124,
+    "geojson": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02042.geojson",
+    "csv": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02042.csv"
+  }
+]

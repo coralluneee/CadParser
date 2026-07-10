@@ -1,0 +1,40 @@
+{
+  "district": {
+    "id": 34,
+    "regionCode": "02",
+    "code": "027",
+    "rn_code": "0212",
+    "kato": "154800000",
+    "type": "р-н.",
+    "type_kz": "қ.",
+    "nameRu": "Мугалжарский (02-027)",
+    "nameKz": "Мұғалжар (02-027)",
+    "nameEn": "Мугалжарский (02-027)",
+    "srs": 32640,
+    "ate_code": "74573"
+  },
+  "srs": "EPSG:32640",
+  "bbox": [
+    466239.304,
+    5295227.537,
+    681742.687,
+    5523725.935
+  ],
+  "matched": 9126,
+  "requested": 9126,
+  "fields": [
+    "geom",
+    "gid",
+    "district_id",
+    "kad_nomer",
+    "address_ru",
+    "shape_area",
+    "squ",
+    "land_id",
+    "rka"
+  ],
+  "dry_run": false,
+  "written": 9126,
+  "geojson": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02027.geojson",
+  "csv": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02027.csv"
+}

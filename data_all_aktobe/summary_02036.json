@@ -1,0 +1,40 @@
+{
+  "district": {
+    "id": 42,
+    "regionCode": "02",
+    "code": "036",
+    "rn_code": "0201",
+    "kato": "151010000",
+    "type": "г.",
+    "type_kz": "қ.",
+    "nameRu": "Актобе (02-036)",
+    "nameKz": "Ақтөбе (02-036)",
+    "nameEn": "Актобе (02-036)",
+    "srs": 32640,
+    "ate_code": "68402"
+  },
+  "srs": "EPSG:32640",
+  "bbox": [
+    489487.749,
+    5551638.935,
+    555606.861,
+    5604112.351
+  ],
+  "matched": 117134,
+  "requested": 117134,
+  "fields": [
+    "geom",
+    "gid",
+    "district_id",
+    "kad_nomer",
+    "address_ru",
+    "shape_area",
+    "squ",
+    "land_id",
+    "rka"
+  ],
+  "dry_run": false,
+  "written": 117134,
+  "geojson": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02036.geojson",
+  "csv": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02036.csv"
+}

@@ -1,0 +1,40 @@
+{
+  "district": {
+    "id": 48,
+    "regionCode": "02",
+    "code": "042",
+    "rn_code": "74677",
+    "kato": "154823100",
+    "type": "г.",
+    "type_kz": "қ.",
+    "nameRu": "Эмба (02-042)",
+    "nameKz": "Ембі (02-042)",
+    "nameEn": "Эмба (02-042)",
+    "srs": 32640,
+    "ate_code": "74677"
+  },
+  "srs": "EPSG:32640",
+  "bbox": [
+    568995.148,
+    5387024.277,
+    600356.591,
+    5423145.684
+  ],
+  "matched": 3124,
+  "requested": 3124,
+  "fields": [
+    "geom",
+    "gid",
+    "district_id",
+    "kad_nomer",
+    "address_ru",
+    "shape_area",
+    "squ",
+    "land_id",
+    "rka"
+  ],
+  "dry_run": false,
+  "written": 3124,
+  "geojson": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02042.geojson",
+  "csv": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02042.csv"
+}

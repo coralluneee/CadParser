@@ -1,0 +1,40 @@
+{
+  "district": {
+    "id": 37,
+    "regionCode": "02",
+    "code": "031",
+    "rn_code": "0213",
+    "kato": "155600000",
+    "type": "р-н.",
+    "type_kz": "қ.",
+    "nameRu": "Темирский (02-031)",
+    "nameKz": "Темір (02-031)",
+    "nameEn": "Темирский (02-031)",
+    "srs": 32640,
+    "ate_code": "76086"
+  },
+  "srs": "EPSG:32640",
+  "bbox": [
+    364702.749,
+    5359840.777,
+    537653.451,
+    5516283.702
+  ],
+  "matched": 9954,
+  "requested": 9954,
+  "fields": [
+    "geom",
+    "gid",
+    "district_id",
+    "kad_nomer",
+    "address_ru",
+    "shape_area",
+    "squ",
+    "land_id",
+    "rka"
+  ],
+  "dry_run": false,
+  "written": 9954,
+  "geojson": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02031.geojson",
+  "csv": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02031.csv"
+}

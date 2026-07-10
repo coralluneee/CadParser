@@ -1,0 +1,40 @@
+{
+  "district": {
+    "id": 44,
+    "regionCode": "02",
+    "code": "038",
+    "rn_code": "74586",
+    "kato": "154820100",
+    "type": "г.",
+    "type_kz": "қ.",
+    "nameRu": "Кандыагаш (02-038)",
+    "nameKz": "Қандыағаш (02-038)",
+    "nameEn": "Кандыагаш (02-038)",
+    "srs": 32640,
+    "ate_code": "74586"
+  },
+  "srs": "EPSG:32640",
+  "bbox": [
+    520066.191,
+    5469769.132,
+    535613.752,
+    5489672.923
+  ],
+  "matched": 6508,
+  "requested": 6508,
+  "fields": [
+    "geom",
+    "gid",
+    "district_id",
+    "kad_nomer",
+    "address_ru",
+    "shape_area",
+    "squ",
+    "land_id",
+    "rka"
+  ],
+  "dry_run": false,
+  "written": 6508,
+  "geojson": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02038.geojson",
+  "csv": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02038.csv"
+}

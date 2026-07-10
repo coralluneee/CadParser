@@ -1,0 +1,40 @@
+{
+  "district": {
+    "id": 35,
+    "regionCode": "02",
+    "code": "028",
+    "rn_code": "0209",
+    "kato": "154000000",
+    "type": "р-н.",
+    "type_kz": "қ.",
+    "nameRu": "Каргалинский (02-028)",
+    "nameKz": "Қарғалы (02-028)",
+    "nameEn": "Каргалинский (02-028)",
+    "srs": 32640,
+    "ate_code": "72930"
+  },
+  "srs": "EPSG:32640",
+  "bbox": [
+    520222.804,
+    5591272.8,
+    639535.583,
+    5669289.073
+  ],
+  "matched": 8336,
+  "requested": 8336,
+  "fields": [
+    "geom",
+    "gid",
+    "district_id",
+    "kad_nomer",
+    "address_ru",
+    "shape_area",
+    "squ",
+    "land_id",
+    "rka"
+  ],
+  "dry_run": false,
+  "written": 8336,
+  "geojson": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02028.geojson",
+  "csv": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02028.csv"
+}

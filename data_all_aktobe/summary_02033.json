@@ -1,0 +1,40 @@
+{
+  "district": {
+    "id": 39,
+    "regionCode": "02",
+    "code": "033",
+    "rn_code": "0215",
+    "kato": "154200000",
+    "type": "р-н.",
+    "type_kz": "қ.",
+    "nameRu": "Хобдинский (02-033)",
+    "nameKz": "Қобда (02-033)",
+    "nameEn": "Хобдинский (02-033)",
+    "srs": 32640,
+    "ate_code": "73380"
+  },
+  "srs": "EPSG:32640",
+  "bbox": [
+    311876.452,
+    5477973.312,
+    456020.424,
+    5657271.301
+  ],
+  "matched": 7821,
+  "requested": 7821,
+  "fields": [
+    "geom",
+    "gid",
+    "district_id",
+    "kad_nomer",
+    "address_ru",
+    "shape_area",
+    "squ",
+    "land_id",
+    "rka"
+  ],
+  "dry_run": false,
+  "written": 7821,
+  "geojson": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02033.geojson",
+  "csv": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02033.csv"
+}

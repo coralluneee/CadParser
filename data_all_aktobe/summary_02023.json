@@ -1,0 +1,40 @@
+{
+  "district": {
+    "id": 31,
+    "regionCode": "02",
+    "code": "023",
+    "rn_code": "0205",
+    "kato": "153600000",
+    "type": "р-н.",
+    "type_kz": "қ.",
+    "nameRu": "Байганинский (02-023)",
+    "nameKz": "Байғанин (02-023)",
+    "nameEn": "Байганинский (02-023)",
+    "srs": 32640,
+    "ate_code": "71730"
+  },
+  "srs": "EPSG:32640",
+  "bbox": [
+    342505.183,
+    5002149.098,
+    590587.398,
+    5429952.193
+  ],
+  "matched": 7603,
+  "requested": 7603,
+  "fields": [
+    "geom",
+    "gid",
+    "district_id",
+    "kad_nomer",
+    "address_ru",
+    "shape_area",
+    "squ",
+    "land_id",
+    "rka"
+  ],
+  "dry_run": false,
+  "written": 7603,
+  "geojson": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02023.geojson",
+  "csv": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02023.csv"
+}

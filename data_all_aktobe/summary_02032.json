@@ -1,0 +1,40 @@
+{
+  "district": {
+    "id": 38,
+    "regionCode": "02",
+    "code": "032",
+    "rn_code": "0214",
+    "kato": "155200000",
+    "type": "р-н.",
+    "type_kz": "қ.",
+    "nameRu": "Уилский (02-032)",
+    "nameKz": "Ойыл (02-032)",
+    "nameEn": "Уилский (02-032)",
+    "srs": 32640,
+    "ate_code": "75597"
+  },
+  "srs": "EPSG:32640",
+  "bbox": [
+    253654.533,
+    5389742.486,
+    391748.454,
+    5519611.315
+  ],
+  "matched": 6682,
+  "requested": 6682,
+  "fields": [
+    "geom",
+    "gid",
+    "district_id",
+    "kad_nomer",
+    "address_ru",
+    "shape_area",
+    "squ",
+    "land_id",
+    "rka"
+  ],
+  "dry_run": false,
+  "written": 6682,
+  "geojson": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02032.geojson",
+  "csv": "C:\\Users\\corallune\\Documents\\GitHub\\CadParser\\data_all_aktobe\\parcels_02032.csv"
+}

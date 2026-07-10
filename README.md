@@ -1,4 +1,4 @@
-# Aktobe Parcel Tool
+# Openkadastr
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
 ![DXF](https://img.shields.io/badge/DXF-R12%20LINE-brightgreen)
@@ -28,7 +28,7 @@
 Start_ParcelTool.vbs
 ```
 
-4. В этой сборке данные для `02034`, `02036`, `02040` уже лежат в папке `data`.
+4. В этой сборке данные для Актюбинской области уже лежат в папке `data`.
 5. Если уже есть свой CSV, открой вкладку `CSV -> DXF` и выбери файл.
 
 ## Формат CSV
@@ -60,13 +60,6 @@ Positioning: Auto - Origin to Origin
 
 ## Скачивание данных ЕГКН
 
-Для текущей рабочей зоны использовались коды:
-
-| Код | Район |
-| --- | --- |
-| `02036` | г. Актобе |
-| `02040` | г. Хромтау |
-| `02034` | Хромтауский район |
 
 Скачать эти районы:
 
